@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Cantik itu pilihan Bukan suatu anugrah
+      text: Cantik itu pilihan Bukan anugrah
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
