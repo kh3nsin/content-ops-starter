@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: buatlah keajaiban
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Khanza salon adalah salon yang khusus untuk wanita, dengan tenaga
+      propesional dan terampil. memanjakan anda sebagai wanita dan privasi anda.
     actions:
       - label: Get started
         altText: ''
