@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/d317eab8-fe72-462f-a980-2a816df09f71.png
+      url: /images/empathy-logo.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
